@@ -2,12 +2,9 @@
 
 ##### Install plugin (sublime text 3)
 
-Navigate to the packages directory default:
+Navigate to the default packages directory and clone the repo:
 
     cd /Users/{user}/Library/Application Support/Sublime Text 3/Packages
-
-Clone the repo:
-
     git clone https://github.com/mbarkhau/SublimeQueryDB.git
 
 ##### Install postgres:
